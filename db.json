@@ -1,7 +1,5 @@
 {
-  users : [
-    {  name: "User One", password: "password" }
-    {  name: "User Two", password: "password" }
-    {  name: "User Three", password: "password" }
+  "users" : [
+    {  "name": "User One", "password": "password" }    
   ]
 }
