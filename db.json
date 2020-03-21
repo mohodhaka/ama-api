@@ -1,5 +1,10 @@
 {
   "users" : [
-    {  "name": "User One", "password": "password" }    
+    {  "name": "User1", "password": "password" },
+    {  "name": "User2", "password": "password" }   
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
   ]
 }
